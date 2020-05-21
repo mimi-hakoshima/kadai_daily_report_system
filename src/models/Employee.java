@@ -107,7 +107,7 @@ public class Employee {
         this.created_at = created_at;
     }
 
-    public Timestamp getUpddated_at(){
+    public Timestamp getUpdated_at(){
         return updated_at;
     }
 
